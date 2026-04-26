@@ -14,11 +14,7 @@ This project is a simple HTML webpage that demonstrates how to add and display m
 
 ### 1. Page Title
 
-Displays a heading with the format:
-
-```
-Yourname Favorite Media
-```
+Displays a heading
 
 ### 2. Audio Player
 
@@ -72,7 +68,7 @@ Open `index.html` directly in a browser (may cause embed issues).
 Edit the heading in `index.html`:
 
 ```html
-<h1>Yourname Favorite Media</h1>
+<h1>Kevi Pegoraro Favorite Media</h1>
 ```
 
 ### Change Audio
